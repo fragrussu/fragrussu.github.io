@@ -9,7 +9,7 @@ Currently I work as a post-doc at UCL, where I am a member of the UCL Queen Squa
 ## My work
 My research focus is in quantitative MRI (qMRI) acquisition and computational modelling. I have an interest in qMRI of brain and especially spinal cord for applications in neurodegnerative disorders (e.g. multiple sclerosis). More recently, I have started working in prostate MRI, using artificial intelligence to tackle problems in protocol design and parameter estimation. 
 
-My mission is to make MRI better using computational tools, enabling the detection pathology much earlier than what we can do today, for the benefit of patients. You can find a list of my works in my [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) or [ORCID](https://orcid.org/0000-0002-0945-3909/print) pages.
+My mission is to make MRI better using computational tools, enabling the detection of pathology much earlier than what we can do today, for the benefit of patients. You can find my works in [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) or [ORCID](https://orcid.org/0000-0002-0945-3909/print).
 
 ## My code
 I strongly believe in the importance of open science and I share my code and data whenever I can. Below you can find a list of code repositories that I have made openly available.
