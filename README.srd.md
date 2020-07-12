@@ -11,6 +11,6 @@ Sa ritzerca mia est a subra de s'achisidura e modellamentu computatzionale de sa
 
 Su a chi bògio lòmpere deo est a nde bogare esàmenes de RM prus valorosos de is chi tenimus oe, pro amustrare su dannu fatu de is maladias primu e mègius pro su bene de is malàdios. Agatas una lista de is traballos mios in is pàginas [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print) cosa mia.
 
-## Su còighe miu
+## Is còighes mios
 
 
