@@ -9,7 +9,7 @@ Traballo comente ritzercadore post-dotorale in UCL, e fatzo parte de ambeduos UC
 ## Su traballu miu
 Sa ritzerca mia est a subra de s'achisidura e modelamentu computatzionale de sa RM cantitativa (RMc). S'in prus interessu mannu miu est a subra de sa RMc de su cherbeddu e pruschetotu de su meuddu, pro aplicatziones in maladias neurodegenerativas (est a nàrrere s'isclerosi mùltipla). Su a chi bògio lòmpere deo est a nde bogare mègius RM de sa chi tenimus oe in die, pro su bene de totus.
 
-Podes agatare una lista de is traballos mios in pàgina [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print) cosa mia.
+Podes agatare una lista de is traballos mios in is pàgina [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print) cosa mia.
 
 ## Su còighe miu
 
