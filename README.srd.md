@@ -14,3 +14,14 @@ Su a chi bògio lòmpere deo est a nde bogare esàmenes de RM prus valorosos de 
 ## Is còighes mios 
 Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas totu is ainas chi apo cumpartzidu. 
 
+* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): a structure tensor analysis toolbox for MATLAB, useful to analyse 2D histological images.
+
+* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python tools pro analisis de mielina e rilassometria in RM.
+
+* [MRItools](https://github.com/fragrussu/MRItools): unas cantas ainas Python e MATLAB chi podent agiudare pro manigiare datos de RM.
+
+* [SARDU-Net](https://github.com/fragrussu/sardunet): una implementatzione Python a lìnia de cumandu de s'algoritmu "_Select And Retrieve via Direct Upsampling_ network" (SARDU-Net) algorithm, pro progetu de protocollos de RMc data-driven e model-free.
+
+* [qMRI-Net](https://github.com/fragrussu/qMRINet): una implementatzione Python a lìnia de cumandu pro istimadura de parametros de modellos e recampionamentu de sinniales fatos cun s'intellighèntzia artifitziale.
+
+* [PaperScripts](https://github.com/fragrussu/PaperScripts): datos e còighes imperados pro iscrìere unos cantos artìculos.
