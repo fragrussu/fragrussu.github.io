@@ -1,5 +1,5 @@
 # Frantziscu Grussu
-Custa est sa pàgina personale cosa mia. Dd'agatas in [Inglesu](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) puru si boles.
+Custa est sa pàgina personale cosa mia. Dd'agatas in [Inglesu](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) puru, si boles.
 
 ## A chini so? 
 So unu ingennieri Biomèdicu nàschidu e pesadu in Sardigna chi traballat in is Imàginas de Resonàntzia Manniètica (RM). Mi so laureadu in s'Universidade de Casteddu (triennale in ingennieria Biomèdica, 2009) e in s'Universidade de Gènova (magistrale in Neuroingennieria, 2012), e a pustis mi nd'apo liadu unu Dotoradu in Fìsica de sa RM (2016) in su University College London (UCL) (agatas sa tesi a [inoghe](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)).
@@ -12,5 +12,5 @@ Sa ritzerca mia est a subra de s'achisidura e modellamentu computatzionale de sa
 Su a chi bògio lòmpere deo est a nde bogare esàmenes de RM prus valorosos de is chi tenimus oe in die cun ainas computatzionales, pro amustrare su dannu de is maladias primu, pro su bene de is malàdios. Agatas is traballos mios in [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print).
 
 ## Is còighes mios 
-
+Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas totu is ainas chi apo cumpartzidu. 
 
