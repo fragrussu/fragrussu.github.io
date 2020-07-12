@@ -2,7 +2,7 @@
 Custa est sa pàgina personale cosa mia. Dd'agatas in [Inglesu](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) puru, si boles.
 
 ## A chini so? 
-So unu ingennieri Biomèdicu nàschidu e pesadu in Sardigna chi traballat in is Imàginas de Resonàntzia Manniètica (RM). Mi so laureadu in s'Universidade de Casteddu (triennale in ingennieria Biomèdica, 2009) e in s'Universidade de Gènova (magistrale in Neuroingennieria, 2012), e a pustis mi nd'apo liadu unu Dotoradu in Fìsica de sa RM (2016) in su University College London (UCL) (agatas sa tesi a [inoghe](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)).
+So unu ingennieri Biomèdicu nàschidu e pesadu in Sardigna chi traballat in is imàginas de Resonàntzia Manniètica (RM). Mi so laureadu in s'Universidade de Casteddu (triennale in ingennieria Biomèdica, 2009) e in s'Universidade de Gènova (magistrale in Neuroingennieria, 2012), e a pustis mi nd'apo liadu unu Dotoradu in Fìsica de sa RM (2016) in su University College London (UCL) (agatas sa tesi a [inoghe](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)).
 
 Traballo comente ritzercadore post-dotorale in UCL, e fatzo parte de ambeduos UCL Queen Square Institute of Neurology e Centre for Medical Image Computing. So istètidu rapresentante de is ritzercadores giòvanos (Trainees) pro duos annos (2018-2020) de su White Matter Study Group in s'International Society for Magnetic Resonance in Medicine (ISMRM), in chi apo intradu in su 2013.
 
@@ -14,9 +14,9 @@ Su a chi bògio lòmpere deo est a nde bogare esàmenes de RM prus valorosos de 
 ## Is còighes mios 
 Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas totu is ainas chi apo cumpartzidu. 
 
-* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): a structure tensor analysis toolbox for MATLAB, useful to analyse 2D histological images.
+* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): ainas MATLAB pro s'analisi de su tensore de istrutura, bellu pro analizare imàginas 2D de istologia.
 
-* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python tools pro analisis de mielina e rilassometria in RM.
+* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python pro analisis de mielina e rilassometria in RM.
 
 * [MRItools](https://github.com/fragrussu/MRItools): unas cantas ainas Python e MATLAB chi podent agiudare pro manigiare datos de RM.
 
