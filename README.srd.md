@@ -20,7 +20,7 @@ Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agr
 
 * [MRItools](https://github.com/fragrussu/MRItools): unas cantas ainas Python e MATLAB chi podent agiudare pro manigiare datos de RM.
 
-* [SARDU-Net](https://github.com/fragrussu/sardunet): una implementatzione Python a lìnia de cumandu de s'algoritmu "_Select And Retrieve via Direct Upsampling_ network" (SARDU-Net) algorithm, pro progetu de protocollos de RMc data-driven e model-free.
+* [SARDU-Net](https://github.com/fragrussu/sardunet): una implementatzione Python a lìnia de cumandu de s'algoritmu "_Select And Retrieve via Direct Upsampling_ network" (SARDU-Net), pro progetare protocollos de RMc in manera ghiada de datos e sena de modellos.
 
 * [qMRI-Net](https://github.com/fragrussu/qMRINet): una implementatzione Python a lìnia de cumandu pro istimadura de parametros de modellos e recampionamentu de sinniales fatos cun s'intellighèntzia artifitziale.
 
