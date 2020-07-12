@@ -2,7 +2,7 @@
 Custa est sa pàgina personale cosa mia. Dda podes lìgere in [Inglesu](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) puru.
 
 ## A chini so? 
-So unu ingennieri Biomèdicu nàschidu e pesadu in Sardigna chi traballat in is Imàginas de Resonàntzia Manniètica (RM). Mi so laureadu in s'Universidade de Casteddu (triennale in ingennieria Biomèdica, 2009) e in s'Universidade de Gènova (magistrale in Neuroingennieria, 2012), e a pustis mi nd'apo liadu unu Dotoradu in Fìsica de sa RM (2016) in su University College London (UCL).
+So unu ingennieri Biomèdicu nàschidu e pesadu in Sardigna chi traballat in is Imàginas de Resonàntzia Manniètica (RM). Mi so laureadu in s'Universidade de Casteddu (triennale in ingennieria Biomèdica, 2009) e in s'Universidade de Gènova (magistrale in Neuroingennieria, 2012), e a pustis mi nd'apo liadu unu Dotoradu in Fìsica de sa RM (2016) in su University College London (UCL) (agatas sa tesi a [inoghe](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)).
 
 Traballo comente ritzercadore post-dotorale in UCL, e fatzo parte de ambeduos UCL Queen Square Institute of Neurology e Centre for Medical Image Computing. So istètidu rapresentante de is ritzercadores giòvanos (Trainees) pro duos annos (2018-2020) de su White Matter Study Group in s'International Society for Magnetic Resonance in Medicine (ISMRM), in chi apo intradu in su 2013.
 
