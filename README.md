@@ -2,7 +2,9 @@
 This is my personal web page. You can read it in [Sardinian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.srd.md) as well.
 
 ## Who am I?
-I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering) and University of Genoa (MEng in Neuroengineering) and then obtained a PhD in Magnetic Resonance Physics at University College London.
+I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering) and University of Genoa (MEng in Neuroengineering) and then obtained a PhD in Magnetic Resonance Physics at University College London (UCL). 
+
+Currently I work as a post-doc at UCL, where I am a memmber of the UCL Queen Square Institute of Neurology and of the UCL Centre for Medical Image Computing.
 
 ## My work
 My research focus is in quantitative MRI (qMRI) acquisition and computational modelling. I have an interest in qMRI of brain and especially spinal cord for applications in neurodegnerative disorders (e.g. multiple sclerosis). My aim is to improve MRI to see the effect of diseases earlier and better, for the benefit of all. 
