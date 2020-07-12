@@ -1,5 +1,5 @@
 # Frantziscu Grussu
-Custa est sa pàgina personale cosa mia. Dda podes lìgere in [Inglesu](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) puru.
+Custa est sa pàgina personale cosa mia. Dd'agatas in [Inglesu](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) puru si boles.
 
 ## A chini so? 
 So unu ingennieri Biomèdicu nàschidu e pesadu in Sardigna chi traballat in is Imàginas de Resonàntzia Manniètica (RM). Mi so laureadu in s'Universidade de Casteddu (triennale in ingennieria Biomèdica, 2009) e in s'Universidade de Gènova (magistrale in Neuroingennieria, 2012), e a pustis mi nd'apo liadu unu Dotoradu in Fìsica de sa RM (2016) in su University College London (UCL) (agatas sa tesi a [inoghe](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)).
