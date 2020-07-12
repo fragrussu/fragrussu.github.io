@@ -11,6 +11,6 @@ Sa ritzerca mia est a subra de s'achisidura e modellamentu computatzionale de sa
 
 Su a chi bògio lòmpere deo est a nde bogare esàmenes de RM prus valorosos de is chi tenimus oe in die cun ainas computatzionales, pro amustrare su dannu de is maladias primu, pro su bene de is malàdios. Agatas is traballos mios in [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print).
 
-## Is còighes mios
+## Is còighes mios 
 
 
