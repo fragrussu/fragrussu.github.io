@@ -1,5 +1,5 @@
 # Francesco Grussu
-This is my personal web page. You can read it in [Sardinian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.srd.md) as well.
+This is my personal web page. If you prefer, you can also read it in [Sardinian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.srd.md).
 
 ## Who am I?
 I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering, 2009) and University of Genoa (MEng in Neuroengineering, 2012) and then obtained a PhD in Magnetic Resonance Physics (2016) at University College London (UCL; you can find my PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)). 
