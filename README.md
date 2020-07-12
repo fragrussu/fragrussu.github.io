@@ -14,8 +14,7 @@ My mission is to make MRI better using computational tools, enabling the detecti
 ## My code
 I strongly believe in the importance of open science and I share my code and data whenever I can. Below you can find a list of code repositories that I have made openly available.
 
-* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): 
-2D structure tensor analysis toolbox for MATLAB, which I developed to analyse sagittal histological images of the spinal cord.
+* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): a structure tensor analysis toolbox for MATLAB, useful to analyse 2D histological images.
 
 * [MyRelax](https://github.com/fragrussu/MyRelax): a collection of Python tools to perform myelin and relaxation analyses in MRI.
 
