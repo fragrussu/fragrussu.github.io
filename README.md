@@ -14,6 +14,19 @@ My mission is to make MRI better using computational tools, enabling the detecti
 ## My code
 I strongly believe in the importance of open science and I share my code and data whenever I can. Below you can find a list of code repositories that I have made openly available.
 
-* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox)
+* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): 
+2D structure tensor analysis toolbox for MATLAB, which I developed to analyse sagittal histological images of the spinal cord.
+
+* [MyRelax](https://github.com/fragrussu/MyRelax): a collection of Python tools to perform myelin and relaxation analyses in MRI.
+
+* [MRItools](https://github.com/fragrussu/MRItools): a collection of Python and MATLAB tools that can help when handling MRI data.
+
+* [SARDU-Net](https://github.com/fragrussu/sardunet): a command-line Python implementation of the _Select And Retrieve via Direct Upsampling_ network (SARDU-Net) algorithm, for data-driven, model-free qMRI protocol design.
+
+* [qMRI-Net](https://github.com/fragrussu/qMRINet): a command-line Python toolbox for model fitting and qMRI resampling based on deep learning.
+
+* [PaperScripts](https://github.com/fragrussu/PaperScripts): data and code used to write a number of papers.
+
+
 
 
