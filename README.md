@@ -14,4 +14,6 @@ My mission is to make MRI better using computational tools, enabling the detecti
 ## My code
 I strongly believe in the importance of open science and I share my code and data whenever I can. Below you can find a list of code repositories that I have made openly available.
 
+* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox)
+
 
