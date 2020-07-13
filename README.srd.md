@@ -14,9 +14,9 @@ Su a in ue bògio lòmpere deo est a nde bogare cun ainas computatzionales esàm
 ## Is còighes mios 
 Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas is giassos a in ue apo cumpartzidu is ainas mias. 
 
-* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): ainas MATLAB pro s'analisi de su tensore de istrutura, bellu pro analizare imàginas 2D de istologia.
+* [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): ainas MATLAB pro s'anàlisi de su tensore de istrutura, bellu pro analizare imàginas 2D de istologia.
 
-* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python pro analisis de mielina e rilassometria in RM.
+* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python pro anàlisis de mielina e rilassometria in RM.
 
 * [MRItools](https://github.com/fragrussu/MRItools): unas cantas ainas Python e MATLAB chi podent agiudare pro manigiare datos de RM.
 
