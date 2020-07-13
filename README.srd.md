@@ -16,7 +16,7 @@ Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agr
 
 * [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): ainas MATLAB pro s'anàlisi de su tensore de istrutura, bellu pro analizare imàginas 2D de istologia.
 
-* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python pro anàlisis de mielina e rilassometria in RM.
+* [MyRelax](https://github.com/fragrussu/MyRelax): unas cantas ainas Python pro anàlisi de mielina e rilassometria in RM.
 
 * [MRItools](https://github.com/fragrussu/MRItools): unas cantas ainas Python e MATLAB chi podent agiudare pro manigiare datos de RM.
 
