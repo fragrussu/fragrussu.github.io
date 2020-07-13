@@ -12,7 +12,7 @@ Sa ritzerca mia est a subra de s'achisidura e modellamentu computatzionale de sa
 Su resultadu a in ue bògio lòmpere deo est a nde bogare a pìgiu, cun s'agiudu de ainas computatzionales, esàmenes de RM prus valorosos de is de oe, amostrende su dannu de is maladias primu, pro su bene de is malàdios. Agatas is traballos mios in [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print).
 
 ## Is còighes mios 
-Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas is giassos a in ue apo cumpartzidu is ainas mias. 
+Deo creo chi siat pretzisu a fàere iscèntzia de manera aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas is giassos a in ue apo cumpartzidu is ainas mias. 
 
 * [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): ainas MATLAB pro s'anàlisi de su tensore de istrutura, bellu pro analizare imàginas 2D de istologia.
 
