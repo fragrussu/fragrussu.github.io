@@ -9,7 +9,7 @@ Traballo comente ritzercadore post-dotorale in UCL, e fatzo parte de ambeduos UC
 ## Su traballu miu
 Sa ritzerca mia est a subra de s'achisidura e modellamentu computatzionale de sa RM cantitativa (RMc). Su prus interessu mannu miu est a subra de sa RMc de su cherbeddu e pruschetotu de su [meuddu](https://doi.org/10.1016/j.neuroimage.2020.116884), pro aplicatziones in maladias neurodegenerativas (est a nàrrere s'[isclerosi mùltipla](https://doi.org/10.1002/acn3.445)). De pagu ora apo cumentzadu a traballare  in sa RM de su [piscerone](https://doi.org/10.1101/2020.05.26.116491), imperende [s'intellighèntzia artifitziale](https://github.com/fragrussu/sardunet) pro solutzionare barrancos in progetu de protocollos e istimadura de paràmetros de modellos. 
 
-Su a in ue bògio lòmpere deo est a nde bogare cun ainas computatzionales esàmenes de RM prus valorosos de is chi tenimus oe in die, pro amustrare su dannu de is maladias primu, pro su bene de is malàdios. Agatas is traballos mios in [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print).
+Su resultadu a in ue bògio lòmpere deo est a nde bogare cun ainas computatzionales esàmenes de RM prus valorosos de is chi tenimus oe in die, pro amustrare su dannu de is maladias primu, pro su bene de is malàdios. Agatas is traballos mios in [Google Scholar](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra) o [ORCID](https://orcid.org/0000-0002-0945-3909/print).
 
 ## Is còighes mios 
 Deo creo firmamente in s'importu de s'iscèntzia aberta, e pro cantu potzo m'agradesset a pònere is còighes e datos mios in sa retza. A bàsciu agatas is giassos a in ue apo cumpartzidu is ainas mias. 
