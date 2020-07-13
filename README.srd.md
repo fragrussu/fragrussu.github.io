@@ -22,6 +22,6 @@ Deo creo chi siat pretzisu a fàere iscèntzia de manera aberta, e pro cantu pot
 
 * [SARDU-Net](https://github.com/fragrussu/sardunet): una implementatzione Python a lìnia de cumandu de s'algoritmu "_Select And Retrieve via Direct Upsampling_ network" (SARDU-Net), pro progetare protocollos de RMc in manera ghiada de datos e sena de modellos.
 
-* [qMRI-Net](https://github.com/fragrussu/qMRINet): una implementatzione Python a lìnia de cumandu pro istimadura de parametros de modellos e recampionamentu de sinniales RMc fatos cun s'intellighèntzia artifitziale.
+* [qMRI-Net](https://github.com/fragrussu/qMRINet): una implementatzione Python a lìnia de cumandu pro istimadura de parametros de modellos e recampionamentu de sinniales RMc, totu fatu cun s'intellighèntzia artifitziale.
 
 * [PaperScripts](https://github.com/fragrussu/PaperScripts): datos e còighes imperados pro iscrìere unos cantos artìculos.
