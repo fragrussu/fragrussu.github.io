@@ -18,7 +18,7 @@ Credo sia fondamentale fare scienza in forma aperta, e per quanto posso cerco di
 
 * [MyRelax](https://github.com/fragrussu/MyRelax): strumenti Python per analisi di mielina e rilassometria in RM.
 
-* [MRItools](https://github.com/fragrussu/MRItools): strumentiPython e MATLAB che possono essere utili per gestire dati di RM.
+* [MRItools](https://github.com/fragrussu/MRItools): strumenti Python e MATLAB utili per la gestione di dati di RM.
 
 * [SARDU-Net](https://github.com/fragrussu/sardunet): una implementazione Python a riga di commando dell'algoritmo "_Select And Retrieve via Direct Upsampling_ network" (SARDU-Net), per progettare protocolli di RMq in maniera completamente guidata dai dati e senza uso di modelli.
 
