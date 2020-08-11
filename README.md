@@ -1,10 +1,12 @@
 # Francesco Grussu
 This is my personal web page. If you prefer, you can also read it in [Sardinian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.srd.md) and [Italian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.it.md).
 
-## Who am I?
+## My profile?
 I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering, 2009) and University of Genoa (MEng in Neuroengineering, 2012) and then obtained a PhD in Magnetic Resonance Physics (2016) at University College London (UCL) (you can find my PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)). 
 
 Currently I work as a post-doc at UCL, where I am a member of the UCL Queen Square Institute of Neurology and of the UCL Centre for Medical Image Computing. I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine, of which I am member since 2013.
+
+You can read my full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/cv_2020811.pdf).
 
 ## My work
 My research focus is in quantitative MRI (qMRI) acquisition and computational modelling. I have an interest in qMRI of brain and especially [spinal cord](https://doi.org/10.1016/j.neuroimage.2020.116884) for applications in neurodegnerative disorders (e.g. [multiple sclerosis](https://doi.org/10.1002/acn3.445)). More recently, I have started working in [prostate MRI](https://doi.org/10.1101/2020.05.26.116491), using [artificial intelligence](https://github.com/fragrussu/sardunet) to tackle problems in protocol design and parameter estimation. 
