@@ -1,10 +1,12 @@
 # Francesco Grussu
 Questa è la mia pagina personale. È disponibile anche in [Inglese](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.md) e [Sardo](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.srd.md).
 
-## Chi sono? 
+## Il mio profilo
 Sono un ingegnere Biomedico nato e cresciuto in Sardegna, che lavora con le immagini di Risonanza Magnetica (RM). Mi sono laureato presso l'Università di Cagliari (triennale in ingegneria Biomedica, 2009) e presso l'Università di Genova (magistrale in Neuroingegneria, 2012). In seguito ho conseguito un Dottorato (PhD) in Fisica della RM (2016) presso lo University College London (UCL) (tesi di PhD disponibile [qui](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)).
 
 Lavoro come ricercatore post-dottorale a UCL, e faccio parte sia dello UCL Queen Square Institute of Neurology e sia del Centre for Medical Image Computing. Sono stato rappresentante dei ricercatori junior (Trainees) per due anni (2018-2020) del _White Matter Study Group_ della _International Society for Magnetic Resonance in Medicine_ (ISMRM), di cui sono membro dal 2013.
+
+Il mio curriculum è disponibile [qui](https://github.com/fragrussu/fragrussu.github.io/blob/master/cv_2020811.pdf).
 
 ## Il mio lavoro
 La mia ricerca riguarda l'acquisizione e modellazione computazionale della RM quantitativa (RMq). Il mio maggior interesse riguarda la RMq del cervello e sepcialmente del [midollo](https://doi.org/10.1016/j.neuroimage.2020.116884), per applicazioni in malattie neurodegenerative (quali la [sclerosi multipla](https://doi.org/10.1002/acn3.445)). Di recente lavoro anche alla RM della [prostate](https://doi.org/10.1101/2020.05.26.116491), utilizzando [l'intelligenza artificiale](https://github.com/fragrussu/sardunet) per risolvere problemi di progetto di protocolli e stima di parametri di modelli. 
