@@ -4,9 +4,11 @@ This is my personal web page. If you prefer, you can also read it in [Sardinian]
 ## My profile
 I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering, 2009) and University of Genoa (MEng in Neuroengineering, 2012) and then obtained a PhD in Magnetic Resonance Physics (2016) at University College London (UCL) (you can find my **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**). 
 
-I have worked as a post-doc at UCL from 2016 to 2020, where I was a member of the UCL Queen Square Institute of Neurology and of the UCL Centre for Medical Image Computing. I now hold a Honorary Senior Research Associate post at UCL. 
+I have worked as a post-doc at UCL from 2016 to 2020, where I was a member of the UCL Queen Square Institute of Neurology and of the UCL Centre for Medical Image Computing. I keep collaborating closely with UCL, at which I hold a Honorary Senior Research Associate post. 
 
-I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine, of which I am member since 2013. Since October 2020 I have joined the Vall d'Hebron Institute of Oncology (Barcelona, Spain) to work on radiomics and quantitative MRI (qMRI) in different types of body cancer. 
+I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM), of which I am a member since 2013. 
+
+Since October 2020 I have joined the Vall d'Hebron Institute of Oncology (Barcelona, Spain) to work on radiomics and quantitative MRI (qMRI) in different types of body cancer. 
 
 Link to **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/cv_2020811.pdf)**.
 
