@@ -12,7 +12,7 @@ Since October 2020 I have joined the Vall d'Hebron Institute of Oncology (Barcel
 
 Link to **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**.
 
-Link to **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/cv_2020811.pdf)**.
+Link to **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/FGrussu_cv_20201001.pdf)**.
 
 Link to **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)**.
 
