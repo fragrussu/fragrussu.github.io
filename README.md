@@ -9,7 +9,9 @@ I have worked as a post-doc at UCL from 2016 to 2020, where I was a member of th
 I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine, of which I am member since 2013. Since October 2020 I have joined the Vall d'Hebron Institute of Oncology (Barcelona, Spain) to work on radiomics and quantitative MRI (qMRI) in different types of body cancer. 
 
 Link to **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/cv_2020811.pdf)**.
+
 Link to **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)**.
+
 Link to **ORCID profile [here](https://orcid.org/0000-0002-0945-3909/print)**.
 
 
