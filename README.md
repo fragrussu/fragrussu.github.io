@@ -2,21 +2,17 @@
 This is my personal web page. If you prefer, you can also read it in [Sardinian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.srd.md) and [Italian](https://github.com/fragrussu/fragrussu.github.io/blob/master/README.it.md).
 
 ## My profile
-I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering, 2009) and University of Genoa (MEng in Neuroengineering, 2012) and then obtained a PhD in Magnetic Resonance Physics (2016) at University College London (UCL). 
+I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging. I graduated at the University of Cagliari (BEng in Biomedical engineering, 2009) and University of Genoa (MEng in Neuroengineering, 2012) and then obtained a PhD in Magnetic Resonance Physics (2016) at University College London (UCL). I have worked as a post-doc at UCL from 2016 to 2020, where I was a member of the Queen Square Institute of Neurology and Centre for Medical Image Computing. I keep collaborating closely with UCL, at which I hold a Honorary Senior Research Associate post. I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM), of which I am a member since 2013. 
 
-I have worked as a post-doc at UCL from 2016 to 2020, where I was a member of the Queen Square Institute of Neurology and Centre for Medical Image Computing. I keep collaborating closely with UCL, at which I hold a Honorary Senior Research Associate post. 
+Since October 2020 I have joined the Vall d'Hebron Institute of Oncology (Barcelona, Spain) as post-doctoral researcher to work on radiomics and quantitative MRI (qMRI) in cancer precision medicine. 
 
-I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM), of which I am a member since 2013. 
+Link to my **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**.
 
-Since October 2020 I have joined the Vall d'Hebron Institute of Oncology (Barcelona, Spain) as post-doctoral researcher to work on radiomics and quantitative MRI (qMRI) in different types of body cancer. 
+Link to my **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/FGrussu_cv_20201001.pdf)**.
 
-Link to **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**.
+Link to my **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)**.
 
-Link to **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/FGrussu_cv_20201001.pdf)**.
-
-Link to **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)**.
-
-Link to **ORCID profile [here](https://orcid.org/0000-0002-0945-3909/print)**.
+Link to my **ORCID profile [here](https://orcid.org/0000-0002-0945-3909/print)**.
 
 
 ## My work
