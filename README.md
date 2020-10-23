@@ -16,12 +16,11 @@ Link to my **ORCID profile [here](https://orcid.org/0000-0002-0945-3909/print)**
 
 
 ## My work
-My research focus is in qMRI acquisition and computational modelling. I have an interest in qMRI of brain and especially [spinal cord](https://doi.org/10.1016/j.neuroimage.2020.116884) for applications in neurodegnerative disorders (e.g. [multiple sclerosis](https://doi.org/10.1002/acn3.445)). More recently, I have started working in [prostate MRI](https://doi.org/10.1101/2020.05.26.116491), using [artificial intelligence](https://github.com/fragrussu/sardunet) to tackle problems in protocol design and parameter estimation, and in various types of body cancer which I investigate with state-of-the-art qMRI. 
+My research focus is in qMRI acquisition and computational modelling. I have an interest in qMRI of brain and especially [spinal cord](https://doi.org/10.1016/j.neuroimage.2020.116884) for applications in neurodegnerative disorders (e.g. [multiple sclerosis](https://doi.org/10.1002/acn3.445)). More recently, I have started working in prostate MRI and cancer radiomics as well, using artificial intelligence to tackle problems in [protocol design](https://doi.org/10.1101/2020.05.26.116491) and [parameter estimation](https://doi.org/10.1101/2020.10.20.347625). 
 
-My mission is to make MRI better using computational tools, enabling the detection of pathology much earlier than what we can do today, for the benefit of patients.
 
 ## My code
-I strongly believe in the importance of open science and I share my code and data whenever I can. Below you can find a list of code repositories that I have made openly available.
+My mission is to make MRI better using computational tools, enabling the detection of pathology much earlier than what we can do today, for the benefit of patients. I strongly believe in the importance of open science and I share my code and data whenever I can. Below you can find a list of code repositories that I have made openly available.
 
 * [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox): a structure tensor analysis toolbox for MATLAB, useful to analyse 2D histological images.
 
