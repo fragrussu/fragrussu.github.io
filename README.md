@@ -8,7 +8,7 @@ Since 1st of October 2020 I am a post-doc at the Vall d'Hebron Institute of Onco
 
 Link to my **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**.
 
-Link to my **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/fgrussu_cvgithub20201024.pdf)**.
+Link to my **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/fgrussucvgithub20201024.pdf)**.
 
 Link to my **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)**.
 
