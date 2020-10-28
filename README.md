@@ -12,9 +12,9 @@ Link to my **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/F
 
 Link to my **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/fgrussucvgithub20201024.pdf)**.
 
-Link to my **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)** with full publication list.
-
 Link to my **ORCID profile [here](https://orcid.org/0000-0002-0945-3909/print)**.
+
+Link to my **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)** with full publication list.
 
 
 ## My work
