@@ -4,7 +4,10 @@ This is my personal web page. Soon I will also make it available in [Sardinian](
 All content is distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, Copyright (c) 2020, Francesco Grussu (license [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/LICENSE.pdf)).
 
 ## My profile
-I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging (MRI). I graduated at the University of Cagliari (BEng Biomedical engineering, 2009) and University of Genoa (MEng Bioengineering, 2012) and then obtained a PhD at University College London (UCL) (Magnetic Resonance Physics, 2016). I have worked as a post-doc at UCL from February 2016 to September 2020, where I was a member of the Queen Square Institute of Neurology and Centre for Medical Image Computing. I keep collaborating closely with UCL, of which I am  Honorary Senior Research Associate. I have been Trainee representative of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM), of which I am a member since 2013. Since 1st of October 2020 I am a post-doc at the Vall d'Hebron Institute of Oncology (Barcelona, Spain), where I work on radiomics and quantitative MRI (qMRI) in cancer precision medicine. 
+I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Resonance Imaging (MRI). I graduated at the University of Cagliari (BEng Biomedical engineering, 2009) and University of Genoa (MEng Bioengineering, 2012) and then obtained a PhD at University College London (UCL) (Magnetic Resonance Physics, 2016). I have worked as a post-doc at UCL from February 2016 to September 2020, where I was a member of the Queen Square Institute of Neurology and Centre for Medical Image Computing. I keep collaborating closely with UCL, of which I am  Honorary Senior Research Associate. I have been Trainee representative (2018-2020) of the White Matter Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM), of which I am a member since 2013. Since 1st of October 2020 I am a post-doc at the Vall d'Hebron Institute of Oncology (Barcelona, Spain), where I work on radiomics and quantitative MRI (qMRI) in cancer precision medicine. 
+
+My research focus is in qMRI acquisition and computational modelling. I have an interest in qMRI of brain and especially [spinal cord](https://doi.org/10.1016/j.neuroimage.2020.116884) for applications in neurodegnerative disorders (e.g. [multiple sclerosis](https://doi.org/10.1002/acn3.445)). More recently, I have started working in prostate MRI and cancer radiomics as well, using artificial intelligence to tackle problems in [protocol design](https://doi.org/10.1101/2020.05.26.116491) and [parameter estimation](https://doi.org/10.1101/2020.10.20.347625). 
+
 
 ## Useful links
 Link to my **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**.
@@ -14,10 +17,6 @@ Link to my **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blo
 Link to my **ORCID profile [here](https://orcid.org/0000-0002-0945-3909/print)**.
 
 Link to my **Google Scholar profile [here](https://scholar.google.co.uk/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=sra)** with full publication list.
-
-
-## My work
-My research focus is in qMRI acquisition and computational modelling. I have an interest in qMRI of brain and especially [spinal cord](https://doi.org/10.1016/j.neuroimage.2020.116884) for applications in neurodegnerative disorders (e.g. [multiple sclerosis](https://doi.org/10.1002/acn3.445)). More recently, I have started working in prostate MRI and cancer radiomics as well, using artificial intelligence to tackle problems in [protocol design](https://doi.org/10.1101/2020.05.26.116491) and [parameter estimation](https://doi.org/10.1101/2020.10.20.347625). 
 
 
 ## My code
