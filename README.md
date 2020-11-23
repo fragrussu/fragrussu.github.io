@@ -9,7 +9,7 @@ I am a Biomedical engineer born and raised in Sardinia who works in Magnetic Res
 My research focus is in qMRI acquisition and computational modelling. I have an interest in qMRI of brain and especially [spinal cord](https://doi.org/10.1016/j.neuroimage.2020.116884) for applications in neurodegnerative disorders (e.g. [multiple sclerosis](https://doi.org/10.1002/acn3.445)). More recently, I have started working in prostate MRI and cancer radiomics as well, using artificial intelligence to tackle problems in [protocol design](https://doi.org/10.1101/2020.05.26.116491) and [parameter estimation](https://doi.org/10.1101/2020.10.20.347625). 
 
 
-## Useful links
+## Links
 Link to my **PhD thesis [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf)**.
 
 Link to my **full CV [here](https://github.com/fragrussu/fragrussu.github.io/blob/master/cvgit_nov20.pdf)**.
